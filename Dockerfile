@@ -1,4 +1,4 @@
-FROM bitnami/minideb:stretch
+FROM bitnami/minideb:buster
 LABEL maintainer 'Carlos Rodriguez Hernandez <carrodher1179@gmail.com>'
 
 RUN install_packages procps git vim zsh wget unzip build-essential python3-pip default-jdk ruby-full nodejs
