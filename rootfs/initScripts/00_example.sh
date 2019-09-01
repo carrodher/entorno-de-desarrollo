@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo '00'
+# echo '[custom initialization script 0] Test'
